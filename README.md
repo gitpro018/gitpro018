@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Faisal</h1>
+<h1 align="center">Hi 👋, I'm Janis</h1>
 <h3 align="center">Results-oriented Machine Learning Engineer with extensive experience in the development and implementation of advanced technologies centered on Vision and NLP</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoma" alt="philoma" /></a> </p>
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://philoma.github.io/MyPortfolio/](https://philoma.github.io/MyPortfolio/)
 
-- 📧 Mail me at- [faisaltech02@gmail.com](faisaltech02@gmail.com)
+- 📧 Mail me at- [janis.kalnins.dev@outlook.com](janis.kalnins.dev@outlook.com)
 
-- 💬 Ask me about **LLMs | Computer Vision | Generative AI | ML | Deep Learning | NLP | Deployment | API | Dockers | Power BI and Python Web Technologies**
+- 💬 Ask me about **React | Node | Python | AI | Cloud**
 
 - 📫 Reach me at **https://www.linkedin.com/in/mfsl54/**
 
