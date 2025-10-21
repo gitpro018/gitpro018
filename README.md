@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoma" alt="philoma" /></a> </p>
 
 
-<img align="right" alt="Coding" width="300" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
 
 
 
