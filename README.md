@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React | Node | Python | AI | Cloud**
 
-- 📫 Reach me at **https://www.linkedin.com/in/mfsl54/**
+- 📫 Reach me at **https://www.linkedin.com/in/janis-kalnins-675672386**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philoma&show_icons=true&locale=en&layout=compact" alt="philoma" /></p>
