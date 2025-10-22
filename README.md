@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Janis</h1>
-<h3 align="center">Results-oriented Machine Learning Engineer with extensive experience in the development and implementation of advanced technologies centered on Vision and NLP</h3>
+<h3 align="center">Senior Full-Stack Engineer (10+ yrs) delivering scalable, secure products across React · Node.js · Python · AI · Cloud. I design pragmatic architectures (microservices/serverless), craft fast, accessible UIs, and build reliable APIs & data/LLM pipelines that turn ambiguous goals into measurable outcomes. Product-minded and metrics-driven, I favor clear contracts, automated tests, CI/CD, and observability to move fast safely.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoma" alt="philoma" /></a> </p>
 
 
