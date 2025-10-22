@@ -16,11 +16,3 @@
 - 💬 Ask me about **React | Node | Python | AI | Cloud**
 
 - 📫 Reach me at **https://www.linkedin.com/in/janis-kalnins-675672386**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philoma&show_icons=true&locale=en&layout=compact" alt="philoma" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philoma&show_icons=true&locale=en" alt="philoma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philoma&" alt="philoma" /></p>
