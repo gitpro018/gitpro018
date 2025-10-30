@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Lukas</h1>
+<h1 align="center">Hi 👋, I'm Janis</h1>
 
 ![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
 
@@ -10,6 +10,6 @@
 
 - 🌱 I’m currently **Open to Work**
 
-- 📧 Mail me at- [lukasbutkusdev@outlook.com](lukasbutkusdev@outlook.com)
+- 📧 Mail me at- [janis.kalnins.dev@outlook.com](janis.kalnins.dev@outlook.com)
 
-- 📫 Reach me at **https://www.linkedin.com/in/lukas-butkus-959478372**
+- 📫 Reach me at **https://www.linkedin.com/in/janis-kalnins-675672386**
